@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "French",
+  "base_artist": "大森元貴",
+  "createdAt": "2025-12-09T08:38:50.363092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "French Summer Sun",
+      "artist": "Jason Eady",
+      "has_synced": false,
+      "path": "select/01_French_Summer_Sun_Jason_Eady.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "French Motel",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/02_French_Motel_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alarm Call (French Dub)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/03_Alarm_Call_(French_Dub)_Björk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alarm Call (French Edit)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/04_Alarm_Call_(French_Edit)_Björk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "French Hotel",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/05_French_Hotel_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly High (feat. French Montana)",
+      "artist": "Lil Durk feat. French Montana",
+      "has_synced": false,
+      "path": "select/06_Fly_High_(feat._French_Montana)_Lil_Durk_feat._French_Montana.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly High ft. French Montana",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/07_Fly_High_ft._French_Montana_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "French Kissin' in the USA",
+      "artist": "Debbie Harry",
+      "has_synced": false,
+      "path": "select/08_French_Kissin'_in_the_USA_Debbie_Harry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bam Bam (feat. French Montana & BEAM) [Mixed]",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/09_Bam_Bam_(feat._French_Montana_&_BEAM)_[Mixed]_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bam Bam (feat. Beam & French Montana)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/10_Bam_Bam_(feat._Beam_&_French_Montana)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Antisocial (French Version)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/11_Antisocial_(French_Version)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Antisocial (French)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/12_Antisocial_(French)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "galore - french version",
+      "artist": "Oklou feat. Pomme & Danny L Harle",
+      "has_synced": true,
+      "path": "select/13_galore_-_french_version_Oklou_feat._Pomme_&_Danny_L_Harle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "galore (feat. Pomme & Danny L Harle) (french version)",
+      "artist": "Oklou",
+      "has_synced": true,
+      "path": "select/14_galore_(feat._Pomme_&_Danny_L_Harle)_(french_version)_Oklou.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can Talk - French Horn Rebellion Remix",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/15_I_Can_Talk_-_French_Horn_Rebellion_Remix_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Can Talk (French Horn Rebellion Remix)",
+      "artist": "Two Door Cinema Club",
+      "has_synced": false,
+      "path": "select/16_I_Can_Talk_(French_Horn_Rebellion_Remix)_Two_Door_Cinema_Club.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "French Dog Blues",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/17_French_Dog_Blues_Babyshambles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "French",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_French_大森元貴.txt"
+    }
+  ]
+}
